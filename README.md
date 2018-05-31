@@ -1,18 +1,5 @@
 # BubbleNiort
 
-
-##Des les liens vers de la doc :
-https://prometheus.io/docs/introduction/overview/
-https://grafana.com/
-https://coreos.com/blog/the-prometheus-operator.html
-https://coreos.com/operators/prometheus/docs/latest/user-guides/getting-started.html
-https://coreos.com/operators/prometheus/docs/latest/
-https://github.com/prometheus/node_exporter
-https://github.com/kubernetes/kube-state-metrics/
-https://kubernetes.io/docs/getting-started-guides/minikube/
-https://docs.docker.com/engine/installation/
-http://blog.cloud66.com/how-to-create-the-smallest-possible-docker-image-for-your-golang-application/
-https://www.habitus.io
 ## De quoi rejouer la démo du 30/05/2018
 ### Prérequis
   - minikube installé : https://kubernetes.io/docs/tasks/tools/install-minikube/
@@ -53,4 +40,29 @@ upload des 3 tableaux de bord :
   - Cluster Cockpit-1508946335336.json
   - MicroSrv-1508947462976.json
   
- # ENJOY !
+
+
+## Des liens vers de la doc :
+
+https://prometheus.io/docs/introduction/overview/
+
+https://grafana.com/
+
+https://coreos.com/blog/the-prometheus-operator.html
+
+https://coreos.com/operators/prometheus/docs/latest/user-guides/getting-started.html
+
+https://coreos.com/operators/prometheus/docs/latest/
+
+https://github.com/prometheus/node_exporter
+
+https://github.com/kubernetes/kube-state-metrics/
+
+https://kubernetes.io/docs/getting-started-guides/minikube/
+
+https://docs.docker.com/engine/installation/
+
+http://blog.cloud66.com/how-to-create-the-smallest-possible-docker-image-for-your-golang-application/
+
+https://www.habitus.io
+
