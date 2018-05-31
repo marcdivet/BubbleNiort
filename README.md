@@ -31,13 +31,13 @@ docker login
 docker push votrerepo/bubble:v001
 
 ```
-###Bootstrap du cluster
+### Bootstrap du cluster
 kubectl create -f 1PromOperateur.yaml
 ```
    --> attendre que le pod de prometheus-operator est bien démaré avant la suite ;-)
 kubectl create -f 2BootStrapBubble.yaml
 ```
-###Déploiment des microservice
+### Déploiment des microservice
 kubectl create -f 3deployMicSrvPersonne.yaml
 kubectl create -f3deployMicSrvPersonne.yaml
 ```
