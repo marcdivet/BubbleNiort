@@ -37,7 +37,7 @@ kubectl create -f 1PromOperateur.yaml
    --> attendre que le pod de prometheus-operator est bien démaré avant la suite ;-)
 kubectl create -f 2BootStrapBubble.yaml
 ```
-### Déploiment des microservice
+### Déploiment des 2 microservices
 kubectl create -f 3deployMicSrvPersonne.yaml
 kubectl create -f3deployMicSrvPersonne.yaml
 ```
@@ -53,4 +53,4 @@ upload des 3 tableaux de bord :
   - Cluster Cockpit-1508946335336.json
   - MicroSrv-1508947462976.json
   
-  
+  ENLOY !
